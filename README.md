@@ -22,4 +22,10 @@ The `charts.js` file contains all of the code which fills the webpage with all o
 - Top 10 OTU's horizontal bar chart
 - Belly button washing frequency gauge chart
 - Bacterial cultures per sample bubble chart
+This file also is responsible for the webpage initilization (or what information is displayed initially when the webpage is first loaded).
 
+Here are screenshots of the webpage as it appears prior to utilizing the dropdown menu feature:
+
+![BB_webpage_1](https://user-images.githubusercontent.com/107309793/189497119-4a850742-6cec-43b1-8ac4-784001d677fa.png)
+![BB_webpage_2](https://user-images.githubusercontent.com/107309793/189497120-b552dece-01b1-496d-bba3-48b11f9ddfbd.png)
+![BB_webpage_3](https://user-images.githubusercontent.com/107309793/189497121-3d0666f1-2895-4e90-9e95-3d10103cf82f.png)
