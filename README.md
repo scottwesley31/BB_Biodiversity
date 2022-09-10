@@ -27,5 +27,8 @@ This file also is responsible for the webpage initilization (or what information
 Here are screenshots of the webpage as it appears prior to utilizing the dropdown menu feature:
 
 ![BB_webpage_1](https://user-images.githubusercontent.com/107309793/189497119-4a850742-6cec-43b1-8ac4-784001d677fa.png)
-![BB_webpage_2](https://user-images.githubusercontent.com/107309793/189497120-b552dece-01b1-496d-bba3-48b11f9ddfbd.png)
+![BB_webpage_2](https://user-images.githubusercontent.com/107309793/189497153-b17e75e4-cd69-4426-8e06-d1c5621219f6.png)
 ![BB_webpage_3](https://user-images.githubusercontent.com/107309793/189497121-3d0666f1-2895-4e90-9e95-3d10103cf82f.png)
+
+## Conclusion
+Overall this project successfully utilizes JavaScript and Plotly to build a dashboard for test subjects to easily interact with. It visualizes the data in a variety of ways and helps summarize the data in a way that may also be useful for Improbable Beef.
