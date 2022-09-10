@@ -5,10 +5,10 @@ Module 12
 This project involves the practice of making data visualizations for the web using JavaScript and Plotly.
 
 ## Project Summary
-Rosa, a biological researcher is interested in bacterial species that have the ability to synthesize proteins that taste like beef, wants to create a webpage for her test subjects. She has partnered with a food startup company called "Improbable Beef" to research and discover bacterial species that can be utlized in the beef-flavored protein synthesis project. She believes that bacterial species found colonizing the belly button are worth investigating. Rosa sampled the belly buttons of people across the country in order to identify the bacterial species present in each subject. She needs a website dashboard which allows for test subjects to select their ID number and which will subsequently display information about which bacterial species were found and their relative abundance.
+A biological researcher named Rosa is interested in bacterial species that have the ability to synthesize proteins that taste like beef. She has partnered with a food startup company called "Improbable Beef" to research and discover bacterial species that can be utlized in the beef-flavored protein synthesis project. She believes that bacterial species found colonizing the belly button are worth investigating. Rosa sampled the belly buttons of people across the country in order to identify the bacterial species present in each subject. She needs a website dashboard which allows for test subjects to select their ID number and which will subsequently display information from the sample. It should show each test subject which bacterial species were found and their releative abundances.
 
 ## Results
-The dashboard was build using 4 different files:
+The dashboard was built using 4 different files:
 1. `samples.json`
 2. `index.html`
 3. `charts.js`
@@ -22,7 +22,7 @@ The `charts.js` file contains all of the code which fills the webpage with all o
 - Top 10 OTU's horizontal bar chart
 - Belly button washing frequency gauge chart
 - Bacterial cultures per sample bubble chart
-This file also is responsible for the webpage initilization (or what information is displayed initially when the webpage is first loaded).
+This file is also responsible for the webpage initilization (or what information is displayed initially when the webpage is first loaded).
 
 Here are screenshots of the webpage as it appears prior to utilizing the dropdown menu feature:
 
